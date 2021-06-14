@@ -1,0 +1,5 @@
+{
+  "name": "spaBot",
+  "language": "javascript",
+  "manager": "yarn"
+}
